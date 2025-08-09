@@ -11,17 +11,20 @@ Dashboard executivo para análise de performance de vendas de e-commerce com dad
 
 ## 🔍 Principais Análises
 ### 📈 Visão Geral
+![Visão Geral](screenshots/analise-de-vendas-ecommerce_page-0001.jpg)
 - Faturamento total: R$ 787,34 milhões
 - Quantidade de pedidos: 2.000
 - Ticket médio: R$ 393,67
 - Margem de lucro: 20%
 
 ### 🛍️ Análise de Produtos
+![Análise de Produtos](screenshots/analise-de-vendas-ecommerce_page-0002.jpg)
 - 176 produtos devolvidos
 - Taxa de devolução: 8,80%
 - Categorias mais vendidas: Eletrônicos, Casa, Esportes
 
 ### 🗺️ Distribuição Regional
+![Distribuição Regional](screenshots/analise-de-vendas-ecommerce_page-0003.jpg)
 - Concentração nas regiões Sudeste e Nordeste
 - Top cidades: Rio de Janeiro, Brasília, Belo Horizonte
 
@@ -42,7 +45,7 @@ O dashboard conta com 3 páginas principais:
 3. **Regiões** - Mapeamento geográfico das vendas
 
 ## 🚀 Como Utilizar
-1. Baixe o arquivo `analise-vendas-ecommerce.pbix`
+1. [📥 Baixe o arquivo Power BI](dashboard/analise-de-vendas-ecommerce.pbix)
 2. Abra no Power BI Desktop
 3. Explore os filtros e visualizações interativas
 
@@ -55,4 +58,5 @@ O dashboard conta com 3 páginas principais:
 Dúvidas ou sugestões? Entre em contato: dados.awilly@gmail.com
 
 ---
+
 *Projeto desenvolvido como parte do portfólio de análise de dados*
